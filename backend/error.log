@@ -1,0 +1,14 @@
+[11-Jan-2025 11:30:28 Europe/Berlin] PHP Warning:  Undefined array key "type" in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 35
+[11-Jan-2025 11:30:28 Europe/Berlin] PHP Warning:  Undefined variable $mysqli in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 71
+[11-Jan-2025 11:30:28 Europe/Berlin] PHP Warning:  Undefined variable $response in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 150
+[11-Jan-2025 11:30:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php:71
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 71
+[11-Jan-2025 11:31:36 Europe/Berlin] PHP Warning:  Undefined array key "type" in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 35
+[11-Jan-2025 11:31:36 Europe/Berlin] PHP Warning:  Undefined variable $mysqli in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 71
+[11-Jan-2025 11:31:36 Europe/Berlin] PHP Warning:  Undefined variable $response in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 150
+[11-Jan-2025 11:31:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php:71
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\whatsapp_management\backend\send_campaign.php on line 71
