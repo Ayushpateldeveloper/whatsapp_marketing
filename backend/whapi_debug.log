@@ -1,0 +1,21 @@
+{
+    "url": "https:\/\/gate.whapi.cloud\/messages\/image",
+    "payload": {
+        "to": "917990116127",
+        "caption": "demo",
+        "media": "http:\/\/localhost\/whatsapp_management\/uploads\/images\/6783356bbe659_Untitled design (4).png"
+    },
+    "response": "{\"error\":{\"code\":500,\"message\":\"Internal Error\"}}",
+    "http_code": 500,
+    "error": ""
+}{
+    "url": "https:\/\/gate.whapi.cloud\/messages\/image",
+    "payload": {
+        "to": "919714197388",
+        "caption": "demo",
+        "media": "http:\/\/localhost\/whatsapp_management\/uploads\/images\/6783356bbe659_Untitled design (4).png"
+    },
+    "response": "{\"error\":{\"code\":500,\"message\":\"Internal Error\"}}",
+    "http_code": 500,
+    "error": ""
+}
